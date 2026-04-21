@@ -1,5 +1,5 @@
 # Alura Books
-
+https://vinilelis.github.io/alurabooks/
 ## Sobre o projeto
 
 Este projeto consiste em um site responsivo da **Alura Books**, desenvolvido para apresentar livros, categorias e conteúdos ligados ao universo da tecnologia e da educação digital. A proposta da página é simular uma vitrine online de livros e materiais de estudo, com foco em áreas como:
