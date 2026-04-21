@@ -257,3 +257,13 @@ O projeto **Alura Books** representa um estudo prático de construção de inter
 
 Mais do que montar uma página visualmente bonita, o projeto teve como foco aplicar uma lógica de desenvolvimento organizada, começando pelo **mobile first**, avançando para **tablets** e finalizando com ajustes para **desktops**. Esse processo permitiu construir uma experiência mais consistente, escalável e agradável para diferentes dispositivos.
 
+<img width="1858" height="918" alt="image" src="https://github.com/user-attachments/assets/6b122a8d-2bf2-4dfe-b4f1-378edbd065ea" />
+<hr>
+
+<img width="1026" height="823" alt="image" src="https://github.com/user-attachments/assets/645a63fd-7b42-475f-9dcc-4de650ef5af9" />
+<hr>
+
+<img width="368" height="825" alt="image" src="https://github.com/user-attachments/assets/459a51cd-0673-4d59-8ce1-c1110330eecb" />
+<hr>
+
+
